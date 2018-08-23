@@ -17,7 +17,7 @@ mkpdx (mkpdx.pl) is the perl script which makes a pdx-file from pcm-file(s) as d
 
 ## Usage
 
-    $ perl [options..] mkpdx.pl <pdl-file>
+    $ perl mkpdx.pl [options..] <pdl-file[.pdl/.PDL]>
 
 - A pdx-file will be created according to the pdl-file.
 - For example, "foo.pdx" will be created from "foo.pdl".
